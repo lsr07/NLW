@@ -2,3 +2,4 @@
 .venv
 *.pylintrc 
 pre-commit
+.pytest_cache
